@@ -1,0 +1,8 @@
+## Claude Powered Assistance Guide
+
+## which model 
+Claude Sonnet 5 
+
+## Prompting Guides
+
+https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/claude-prompting-best-practices
